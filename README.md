@@ -4,7 +4,6 @@ Classify images of words into their respective scripts (e.g., Hindi, Punjabi, En
 
 ## Features
 - Script recognition from word images
-- Based on EfficientNetV2 + ViT architecture
 - Attention-based feature fusion
 - Handcrafted Language Prediction Network (LPN)
 
